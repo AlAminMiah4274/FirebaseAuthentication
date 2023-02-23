@@ -22,4 +22,10 @@
 -------------------------------------
     DISPLAY DATA: 
 -------------------------------------
+-------------------------------------
+    ADD A NEW SIGN IN METHOD
+-------------------------------------
+1. enable the sign in method 
+2. create github, twitter, fb etc app create 
+3. get client id and secret 
 */
